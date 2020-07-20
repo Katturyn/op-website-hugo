@@ -98,6 +98,7 @@ Ao adicionar o seu nome, por favor observe:
 | Juliano Massanetto             | juliano.massanetto@gmail.com          | https://github.com/JMass1                 |
 | Julio César Santos             | stjuliomn@gmail.com                   | https://github.com/juliocst               |
 | Kaio Campos                    | kaiocamposti@gmail.com                | https://github.com/kaiocampos             |
+| Katturyn Caproni               | katturync@gmail.com                   | https://github.com/katturyn               |
 | Kyldery Oliveira               | kyll.weslley@gmail.com                | https://github.com/kyldery                |
 | Lauro Silveira Neto            | laurosn@gmail.com                     | https://github.com/laurosn                |
 | Leo Silva Souza                | leovano@protonmail.com                | https://github.com/leovano                |
